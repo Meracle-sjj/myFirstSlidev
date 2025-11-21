@@ -6,9 +6,51 @@ lineNumbers: true
 drawings:
   persist: false
 transition: slide-left
-layout: two-cols
+layout: cover
 class: 'text-white'
 ---
+
+# 实用的 Linux 服务器网络教程
+
+一些学校场景下的 Linux 服务器网络技巧
+
+<div class="flex justify-center gap-16 mt-16">
+  <div class="text-center">
+    <div class="text-5xl mb-3">🖥️</div>
+    <h3 class="text-xl font-bold mb-2">一个联网设备</h3>
+    <p class="text-sm text-gray-400">理解端口模型</p>
+  </div>
+  <div class="text-center">
+    <div class="text-5xl mb-3">🔗</div>
+    <h3 class="text-xl font-bold mb-2">两台设备连接</h3>
+    <p class="text-sm text-gray-400">掌握 SSH 原理</p>
+  </div>
+  <div class="text-center">
+    <div class="text-5xl mb-3">🌍</div>
+    <h3 class="text-xl font-bold mb-2">三台设备连接</h3>
+    <p class="text-sm text-gray-400">了解内网穿透</p>
+  </div>
+</div>
+
+认真学习本次分享后，你可以：
+<div class="flex justify-center gap-12 mt-4 px-8">
+  <div class="text-center flex-1">
+    <div class="text-green-400 font-bold mb-2">✓ 理解网络设备和端口的概念</div>
+  </div>
+  <div class="text-center flex-1">
+    <div class="text-green-400 font-bold mb-2">✓ 使学校 Linux 服务器使用外网资源</div>
+  </div>
+  <div class="text-center flex-1">
+    <div class="text-green-400 font-bold mb-2">✓ 通过 FRP 实现内网穿透</div>
+  </div>
+</div>
+
+
+
+---
+layout: two-cols
+---
+
 <div class="-mt-4 mb-0">
   <h1 style="color: white !important; margin-bottom: 0.5rem;">1. 一个联网设备的模型</h1>
   <h2 style="color: white !important; margin-bottom: 0;">1.1 端口</h2>
