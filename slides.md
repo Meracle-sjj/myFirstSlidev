@@ -131,7 +131,7 @@ ssh -R 10808:localhost:7897 -p 9999 yourName@11.222.33.44
 
   <div class="text-lg -mt-1 -mb-1">
 ```bash
-ssh -L 8888:localhost:7897 -p 9999 yourName@11.222.33.44
+ssh -L 8888:localhost:5909 -p 9999 yourName@11.222.33.44
 ```
   </div>
 </div>
