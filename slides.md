@@ -38,10 +38,10 @@ class: 'text-white'
     <div class="text-green-400 font-bold mb-2">✓ 理解网络设备和端口的概念</div>
   </div>
   <div class="text-center flex-1">
-    <div class="text-green-400 font-bold mb-2">✓ 使学校 Linux 服务器使用外网资源</div>
+    <div class="text-green-400 font-bold mb-2">✓ 使学校 Linux 服务器使用你自己的网络资源</div>
   </div>
   <div class="text-center flex-1">
-    <div class="text-green-400 font-bold mb-2">✓ 通过 FRP 实现内网穿透</div>
+    <div class="text-green-400 font-bold mb-2">✓ 明白 FRP 内网穿透原理</div>
   </div>
 </div>
 
