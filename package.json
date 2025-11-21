@@ -1,0 +1,20 @@
+{
+  "name": "myfirst",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.9.1",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-dracula": "^0.2.0",
+    "slidev-theme-prussianblue": "^0.0.9",
+    "slidev-theme-purplin": "^1.2.0",
+    "vue": "^3.5.24"
+  }
+}
